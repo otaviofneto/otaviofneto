@@ -4,7 +4,7 @@
 
 - 🧑‍💼 Atualmente sou Analista na QualitySystem
 
-- 📖 Todos meus projetos estão disponíveis no meu portfólio ( [otavioneto.tech](https://otavioneto.tech/) )
+- 📖 Todos meus projetos estão disponíveis no meu portfólio ( [otavioneto](https://otavioneto.netlify.app/) )
 
 - 🧑‍💻 Na área da tecnologia desde 2015, onde ja tive vivências em: sistemas de segurança, assistência técnica, suporte técnico, implantação e desenvolvimento.
 
